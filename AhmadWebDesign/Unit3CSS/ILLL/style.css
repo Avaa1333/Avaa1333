@@ -1,0 +1,16 @@
+.vegetarian {
+    color: seagreen;
+}
+
+h2 {
+    color: lightcoral;
+}
+
+#crowd-favorite {
+    font-style: italic;
+    color: red;
+}
+
+#new {
+    color: orange;
+}
