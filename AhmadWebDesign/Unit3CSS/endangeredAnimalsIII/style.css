@@ -1,0 +1,32 @@
+.scientific-name {
+    font-style: italic;
+}
+
+#batpic {
+    border-style: dashed;
+    width: 100px;
+    height: 100px;
+}
+
+#beaverpic {
+    border-style: double;
+    width: 125px;
+    height: 100px;
+}
+
+#grizzlypic {
+    border-style: inset;
+    width: 125px;
+    height: 100px;
+}
+
+p {
+    font-size: x-small;
+}
+.endangered {
+    color: red;
+}
+
+.threatened {
+    color: orangered;
+}
