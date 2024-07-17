@@ -1,0 +1,17 @@
+h3 {
+    text-transform: uppercase;
+}
+
+p {
+    font-family: Arial;
+    text-align: right;
+}
+
+body {
+    background-color: peachpuff;
+}
+
+.link{
+    font-size: 16px;
+    font-style: italic;
+}
