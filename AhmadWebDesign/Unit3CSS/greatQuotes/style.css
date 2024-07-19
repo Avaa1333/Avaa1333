@@ -1,0 +1,10 @@
+body{
+    background-image:linear-gradient(lightpink, lightgreen);
+    background-repeat:no-repeat;
+    font-size:20px;
+}
+
+footer{
+   margin-top:10em;
+   border-top:solid 3px;
+}
