@@ -8,10 +8,25 @@ p {
 }
 
 body {
-    background-color: peachpuff;
+    background-image: url(https://thumbor.forbes.com/thumbor/fit-in/900x510/https://www.forbes.com/health/wp-content/uploads/2022/11/960x0.jpg);
 }
 
 .link{
     font-size: 16px;
     font-style: italic;
+}
+
+header{
+    border-style: solid;
+    background-color: peachpuff;
+}
+
+main {
+    background-color: peachpuff;
+    height: 80%;
+    width: 70%;
+}
+
+footer {
+    background-color: peachpuff;
 }
