@@ -30,3 +30,8 @@ main {
 footer {
     background-color: peachpuff;
 }
+
+.job-title {
+    font-weight: bold;
+    color: maroon;
+}
