@@ -1,0 +1,20 @@
+#male .active{
+    background-color:#a2662a;
+}
+
+th{
+    background-color: SteelBlue;
+    color:white;
+}
+
+#female .active{
+    background-color:seagreen;
+}
+
+#female .inactive{
+    background-color:mediumaquamarine;
+}
+
+#male .inactive{
+    background-color:peru;
+}
