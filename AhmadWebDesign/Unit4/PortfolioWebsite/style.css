@@ -1,0 +1,27 @@
+/* Basic styles */
+
+body{
+    background-color: #D5D5D5;
+}
+h1 {
+    color: #9099A2; 
+}
+
+h2, h3, h4, h5, h6{
+    color: #6D7993; /* Accent */
+}
+
+a{
+    color:inherit;
+}
+
+a:hover{
+    color:#6D7993;;
+}
+
+
+/* Homepage styles*/
+.cover{
+    height:300px;
+    margin-top:25%;
+}
