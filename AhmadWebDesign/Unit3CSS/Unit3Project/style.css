@@ -1,0 +1,70 @@
+#citation {
+    font-size: 8px;
+    font-style: italic;
+    padding: 5px;
+}
+
+.rectangleimg {
+    height: 200px;
+    width: 275px;
+    border: solid;
+    border-color: black;
+    border-width: 2px;
+}
+
+.kindasquareimg {
+    height: 200px;
+    width: 250px;
+    border: solid;
+    border-color: black;
+    border-width: 2px;
+}
+
+.squareimg {
+    height: 200px;
+    width: 200px;
+    border: solid;
+    border-color: black;
+    border-width: 2px;
+}
+
+header {
+    background-color: lightblue;
+    margin: 10px;
+    padding: 5px;
+}
+
+main {
+    background-color: lightgray;
+    margin: 10px;
+    padding: 5px;
+}
+
+footer {
+    background-color: lightblue;
+    margin: 10px;
+    padding: 5px;
+}
+
+h1 {
+    font-weight: bold;
+}
+
+h2 {
+    text-decoration: underline;
+}
+
+.rectangleimg:hover {
+    scale: 1.25;
+    transition-duration: 1s;
+}
+
+.kindasquareimg:hover {
+    scale: 1.25;
+    transition-duration: 1s;
+}
+
+.squareimg:hover {
+    scale: 1.25;
+    transition-duration: 1s;
+}
