@@ -27,6 +27,7 @@ main {
     width: 70%;
     margin: 15px;
     padding: 10px;
+    min-height: 600px;
 }
 
 footer {
@@ -63,3 +64,9 @@ img {
     font-style: italic;
     padding: 5px;
 }
+
+.nala:hover {
+    width: 400px;
+    height: 400px;
+    transition-duration: 1s;
+  }
